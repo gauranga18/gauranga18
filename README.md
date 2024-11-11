@@ -1,4 +1,6 @@
-[![](https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif)](https://www.priyan1995.com/)<!-- If you want the template for my gif, email me! -->
+<img src="![image](https://github.com/user-attachments/assets/85e02875-0e02-48f1-85d1-1d3f99e35f53)
+" alt="Description of GIF" style="width: 300px; height: auto;">
+
 
 
 
