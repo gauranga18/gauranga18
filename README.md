@@ -1,3 +1,7 @@
+[![](https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif)](https://www.priyan1995.com/)<!-- If you want the template for my gif, email me! -->
+
+
+
 <h1 align="center">Hi 👋, I'm Saurav Jyoti Kalita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
