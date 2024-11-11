@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav Jyoti Kalita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/89/bb/06/89bb06251fb7401e094b1f6d71f3d3f4.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauranga18&label=Profile%20views&color=0e75b6&style=flat" alt="gauranga18" /> </p>
 
