@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Saurav Jyoti Kalita</h1>
+
+![89bb06251fb7401e094b1f6d71f3d3f4](https://github.com/user-attachments/assets/b802c8a1-49cf-4062-b323-b1a8a767b0b8)
+
+
+
+<h1 align![Uploading 89bb06251fb7401e094b1f6d71f3d3f4.gif…]()
+="center">Hi 👋, I'm Saurav Jyoti Kalita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauranga18&label=Profile%20views&color=0e75b6&style=flat" alt="gauranga18" /> </p>
 
