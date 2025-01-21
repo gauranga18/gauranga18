@@ -1,5 +1,6 @@
 <!-- Full-width banner GIF -->
-<img src="[https://github.com/user-attachments/assets/b802c8a1-49cf-4062-b323-b1a8a767b0b8](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)" alt="banner" style="width: 100%; height: auto;">
+![81bb4b165684019 640b6038d133e](https://github.com/user-attachments/assets/3a707d15-3046-41c4-bf4c-ece421609d77)
+
 
 <h1 align="center">Hi 👋, I'm Saurav Jyoti Kalita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
