@@ -1,3 +1,4 @@
+![81bb4b165684019 640b6038d133e](https://github.com/user-attachments/assets/e2564409-6fb0-45fe-b468-a4cc7644191a)
 
 <h1 align="center">Hi 👋, I'm Saurav Jyoti Kalita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
