@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Saurav Jyoti Kalita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-#💫 About Me:
+## 💫 About Me:
 I'm currently working on MERN stack and Leetcode
 
 
