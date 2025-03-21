@@ -1,5 +1,3 @@
-![81bb4b165684019 640b6038d133e](https://github.com/user-attachments/assets/e2564409-6fb0-45fe-b468-a4cc7644191a)
-
 <h2 align="left">Hi 👋! My name is Saurav and I'm a Developer, from India</h2>
 
 ###
