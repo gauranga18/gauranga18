@@ -54,6 +54,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gauranga18/gauranga18/output/snake.svg" alt="Snake animation" />
-
 ###
