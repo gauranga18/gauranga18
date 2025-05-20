@@ -1,3 +1,5 @@
+<img src="https://imgs.search.brave.com/gMHD4YKnJmHFBX6LjsRzHxjuHy0Lwj2HoxTMcEw9JKM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtd2l4bXAtZWQz/MGE4NmI4YzRjYTg4/Nzc3MzU5NGMyLndp/eG1wLmNvbS9mL2M4/M2MwMDRlLTEzNzAt/NDc1Ni04OGU1LTQw/NzFkZTc5NzA4OC9k/Z2RxOGJyLTA5Y2M3/YWQ2LWEwMjEtNDdh/NS1iMGUwLTkxN2Ix/MmIwZjdhNy5naWY_" alt="cool gif" width="400"/>
+
 # 💫 About Me:
 🔭 I’m currently working on MERN based Projects<br>
 
