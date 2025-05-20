@@ -1,4 +1,4 @@
-![cool gif](https://github.com/your-username/your-username/blob/main/yourgif.gif?raw=true)
+![image](https://github.com/user-attachments/assets/dc5c9779-47d0-4e05-a554-fb822a519542)
 
 # 💫 About Me:
 🔭 I’m currently working on MERN based Projects<br>
