@@ -1,7 +1,7 @@
 ![image](https://64.media.tumblr.com/d3ee39015ce2a83bab595f63eddfabc6/7007161d9c3b4b21-84/s1280x1920/88ac56b0e61e730c31dd8ee4254b247425126579.gif)
 
 # 💫 About Me:
-🔭 I’m currently working on MERN based Projects<br>
+🔭 I’m currently working on Backend and Systems<br>
 
 
 ## 🌐 Socials:
