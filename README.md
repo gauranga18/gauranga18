@@ -1,4 +1,5 @@
-![image]((https://i.pinimg.com/originals/f5/88/f2/f588f2cb596083e0d8e6c5f0c86319bd.gif))
+![image](<img width="624" height="266" alt="image" src="https://github.com/user-attachments/assets/26296638-4c53-407c-aefa-96a0f425dca8" />
+)
 
 # 💫 About Me:
 🔭 I’m currently working on Backend and Systems<br>
