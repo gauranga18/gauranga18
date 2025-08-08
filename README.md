@@ -1,4 +1,4 @@
-![image]([https://64.media.tumblr.com/d3ee39015ce2a83bab595f63eddfabc6/7007161d9c3b4b21-84/s1280x1920/88ac56b0e61e730c31dd8ee4254b247425126579.gif](https://i.pinimg.com/originals/f5/88/f2/f588f2cb596083e0d8e6c5f0c86319bd.gif))
+![image]((https://i.pinimg.com/originals/f5/88/f2/f588f2cb596083e0d8e6c5f0c86319bd.gif))
 
 # 💫 About Me:
 🔭 I’m currently working on Backend and Systems<br>
