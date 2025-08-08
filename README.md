@@ -1,5 +1,3 @@
-![image](<img width="624" height="266" alt="image" src="https://github.com/user-attachments/assets/26296638-4c53-407c-aefa-96a0f425dca8" />
-)
 <img width="624" height="266" alt="image" src="https://github.com/user-attachments/assets/fef501e9-285b-4d7e-9a2a-ae8da674b1e1" />
 
 # 💫 About Me:
