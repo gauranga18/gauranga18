@@ -1,4 +1,4 @@
-<img width="624" height="266" alt="image" src="https://github.com/user-attachments/assets/fef501e9-285b-4d7e-9a2a-ae8da674b1e1" />
+<img width="624" height="266" alt="image" src="[https://github.com/user-attachments/assets/fef501e9-285b-4d7e-9a2a-ae8da674b1e1](https://i.imgur.com/UH8KV4m.gif)" />
 
 # 💫 About Me:
 🔭 I’m currently working on Backend and Systems<br>
