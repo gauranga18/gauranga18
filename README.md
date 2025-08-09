@@ -1,5 +1,7 @@
-[<img width="624" height="266" alt="image" src="[https://github.com/user-attachments/assets/fef501e9-285b-4d7e-9a2a-ae8da674b1e1](https://i.imgur.com/UH8KV4m.gif)" />
-](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
+<a href="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif">
+  <img src="https://i.imgur.com/UH8KV4m.gif" alt="image" width="624" height="266">
+</a>
+
 # 💫 About Me:
 🔭 I’m currently working on Backend and Systems<br>
 
