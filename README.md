@@ -1,6 +1,9 @@
 <a href="[https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)">
   <img src="https://i.imgur.com/UH8KV4m.gif" alt="image" width="624" height="266">
 </a>
+<a href="https://storage.qoo-img.com/cimg/note/2022/04/16/ea4a875cd462751b95b813bed8a49b61.gif">
+  <img src="https://storage.qoo-img.com/cimg/note/2022/04/16/ea4a875cd462751b95b813bed8a49b61.gif" alt="Profile GIF" width="624" height="266">
+</a>
 ![Profile GIF](https://storage.qoo-img.com/cimg/note/2022/04/16/ea4a875cd462751b95b813bed8a49b61.gif)
 # 💫 About Me:
 🔭 I’m currently working on Backend and Systems<br>
