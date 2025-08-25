@@ -10,11 +10,7 @@
   |_|  |_||_||_|/__/  |_|/__/ |___/  /_/ \_\  \___/ |_|_\  /_/ \_\   \_/    
 </pre>
 </p>
-
-<a href="https://i.pinimg.com/originals/19/ce/87/19ce876ea0a5b54503291f9490fed60a.gif">
-  <img src="https://i.pinimg.com/originals/19/ce/87/19ce876ea0a5b54503291f9490fed60a.gif" alt="image" width="624" height="266">
-</a>
-
+   
 ## 💫 About Me:
 🔭 I’m currently working on Backend and Systems<br>
 
