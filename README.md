@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Saurav</h1>
+<h3 align="center">A passionate developer from India</h3>
 <p align="center">
 <pre>
 (                     (                      
@@ -10,12 +12,6 @@
   |_|  |_||_||_|/__/  |_|/__/ |___/  /_/ \_\  \___/ |_|_\  /_/ \_\   \_/    
 </pre>
 </p>
-   
-## 💫 About Me:
-🔭 I’m currently working on Backend and Systems<br>
-
-<h1 align="center">Hi 👋, I'm Saurav</h1>
-<h3 align="center">A passionate developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
