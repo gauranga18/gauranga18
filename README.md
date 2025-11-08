@@ -30,17 +30,6 @@
 </div>
 
 <br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Saurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
 <br>
 
 ## 🌱 Learning Path
