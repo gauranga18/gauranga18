@@ -1,65 +1,21 @@
-# 👋 Hi, I'm Saurav
+# Hi 👋, I'm Saurav
 
-> Systems programmer learning how computers work from the ground up
+### An experienced C developer
 
-<br>
+- 🔭 I'm currently working on **Developer Infrastructure Tool**
 
-## 🔧 Currently Working On
+- 🌱 I'm currently learning **DevOps and C**
 
-```ascii
-┌─────────────────────────────────────────────────────┐
-│  • Building low-level projects in C and Assembly    │
-│  • Learning Linux internals and kernel development  │
-│  • Exploring systems programming fundamentals       │
-└─────────────────────────────────────────────────────┘
-```
+- 👨‍💻 All of my projects are available at **[https://portfolio-omega-sepia-70.vercel.app/](https://portfolio-omega-sepia-70.vercel.app/)**
 
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/gauranga18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gauranga18" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saurav-jyoti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurav-jyoti/" height="30" width="40" /></a>
+<a href="https://instagram.com/saurav_.30__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurav_.30__" height="30" width="40" /></a>
+<a href="https://discord.gg/saurav018660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saurav018660" height="30" width="40" /></a>
+</p>
 
-## 💻 Tech Stack
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a></p>
 
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-<br>
-<br>
-
-## 🌱 Learning Path
-
-```
-Operating Systems → Kernel Development → System Architecture
-     ↓                    ↓                      ↓
-  Currently         In Progress              Next Up
-```
-
-<br>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sauravjyotikalita56@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-jyoti/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saurav_.30__)
-
-</div>
-
-<br>
-
-<div align="center">
-  
-### 💡 *"The best way to understand how computers work is to build them yourself"*
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
-
-</div>
